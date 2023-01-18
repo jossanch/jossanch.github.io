@@ -1,0 +1,51 @@
+[
+    {
+        "type": "Reggaeton",
+        "description": "Bad Bunny",
+        "price": 15000,
+        "available": true,
+        "source": "https://cdn.stayhappening.com/events5/banners/2879a8bf04fd78b43a4fdc928af1d48ebc07cb7f378b5ae3926c99d829b92ba3-rimg-w1200-h1500-gmir.jpg?v=1654115286"
+    },
+    {
+        "type": "Reggaeton",
+        "description": "Daddy Yankee",
+        "price": 20000,
+        "available": false,
+        "source": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/10183056/40f945f8-f911-4fdf-b963-c742a76ab851.jpg"
+    },
+    {
+        "type": "Reggaeton",
+        "description": "Karol G",
+        "price": 16000,
+        "available": true,
+        "source": "https://tuboleta.com/imagenes/6137e31f65562.jpg"
+    },
+    {
+        "type": "Electronica",
+        "description": "David Guetta",
+        "price": 15000,
+        "available": true,
+        "source": "https://pbs.twimg.com/media/FFoI7qKXEAQ39zO.jpg"
+    },
+    {
+        "type": "Electronica",
+        "description": "Tiesto",
+        "price": 15000,
+        "available": true,
+        "source": "https://assets.adnradio.cl/2022/11/tiesto-flyer-1024x1024.jpg"
+    },
+    {
+        "type": "Nacionales",
+        "description": "La Konga",
+        "price": 9000,
+        "available": true,
+        "source": "https://pbs.twimg.com/media/FJvYZFEXoAEAgdg.jpg"
+    },
+    {
+        "type": "Nacionales",
+        "description": "Lali",
+        "price": 12000,
+        "available": false,
+        "source": "http://agenciasanluis.com/wp-content/uploads/2022/06/PHOTO-2022-06-28-08-49-41.jpg"
+    }
+]
